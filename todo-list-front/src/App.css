@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color:rgb(151, 120, 192);
+}
+
+.mylist {
+    width: 300px;
+    padding: 0px;
+    margin: auto;
+    border: 2px solid #bbb;
+    border-radius: 7px 7px 0px 0px;
+}
+
+.mylist li {
+    list-style: none;
+    background: #eee;
+    border-top: 1px solid #ccc;
+    padding: 10px 20px;
+}
+
+.pInput {
+    width: 300px;
+    padding: 0px;
+    margin: auto;
+    border: 2px solid #bbb;
+    border-radius: 0px 0px 0px 7px;
+}
+
+label {
+    word-break: break-all;
+}
+
+.inputTodo {
+    width: 174px;
+}
+
+.croix {
+    float: right;
+}
+
+button:hover {
+    background-color: rgb(241, 228, 245);
+}
